@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Laravel based web applications, performance optimization, and payment integrations.<br><br>👯 I’m looking to collaborate on<br>Web apps, SaaS products, custom plugins, APIs, and e-commerce projects.<br><br>🤝 I’m looking for help with<br>Advanced DevOps, large-scale system architecture, and AI integrations.<br><br>🌱 I’m currently learning<br>System design, performance optimization, and modern JavaScript frameworks.<br><br>💬 Ask me about<br>Laravel, CodeIgniter, WordPress plugins, APIs, Vue.js, React, and payment gateways.<br><br>⚡ Fun fact<br>I treat every client project like my own and don’t stop until performance hits 90+ 🚀
+🔭 I’m currently working on<br>Laravel based web applications, performance optimization, and payment integrations.<br><br>👯 I’m looking to collaborate on<br>Web apps, SaaS products, custom plugins, APIs, and e-commerce projects.<br><br>🤝 I’m looking for help with<br>Advanced DevOps, large-scale system architecture, and AI integrations.<br><br>🌱 I’m currently learning<br>System design, performance optimization, and modern JavaScript frameworks.<br><br>💬 Ask me about<br>Laravel, CodeIgniter, WordPress plugins, APIs, Vue.js, React, and payment gateways.
 
 
 ## 🌐 Socials:
